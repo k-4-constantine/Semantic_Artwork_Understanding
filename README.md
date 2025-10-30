@@ -1,4 +1,4 @@
-# Semantic_Artwork_Understanding
+# Semantic Artwork Understanding
 
 ![A Painter is Born](https://github.com/user-attachments/assets/dffe6a4d-4947-4e28-a7d4-299165fc6190)
 
